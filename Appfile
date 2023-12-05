@@ -1,0 +1,10 @@
+app_identifier("__BUNDLE_NAME__") # The bundle identifier of your app
+apple_id("jakub.lukasz.tomal@gmail.com") # Your Apple email address
+
+itc_team_id("117908512") # App Store Connect Team ID
+team_id("RV9JHPB4XJ") # Developer Portal Team ID
+
+json_key_file("~/Documents/keys/hero-legacy-44a0a-be1bb62c2fd3.json")
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
